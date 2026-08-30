@@ -102,7 +102,6 @@
 	</Item>
 	<Item Name="SubVIs" Type="Folder">
 		<Item Name="find VI recursively.vi" Type="VI" URL="../find VI recursively.vi"/>
-		<Item Name="Adjust FP VI.vi" Type="VI" URL="../Adjust FP VI.vi"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
